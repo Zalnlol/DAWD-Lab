@@ -1,2 +1,2 @@
-# DAWD-Lab
-Android Practice Lab
+# EAD-Lab
+Java EJB Practice Lab
